@@ -84,7 +84,6 @@ Dependencies are tracked in two files:
 
 ```json
 "dependencies": {
-  /* existing dependencies */
   "package-name": "1.0.0"
 }
 ```
