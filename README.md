@@ -46,7 +46,7 @@ deno --version
    **Settings > Pages > Build and Deployment**
 2. Set the **Source** to **“GitHub Actions”**.
 
-### Enabling GitHub Actions
+### Enabling GitHub Actions (OPTIONAL)
 
 1. Navigate to the **Actions** tab in your repository.
 2. Click the green button labeled **“Enable Actions”**.
